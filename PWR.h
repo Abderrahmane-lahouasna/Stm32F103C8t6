@@ -2,7 +2,7 @@
  * PWR.h
  *
  *  Created on: Aug 2, 2023
- *      Author: T530
+ *      Author: Lahouasna Abderrahmane
  */
 
 #ifndef PWR_H_
